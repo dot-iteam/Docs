@@ -35,32 +35,17 @@ It is intended to:
 
 Documentation for SQLiteKit is available through the published website:
 
-https://docs.iteam.studio/docc/documentation/sqlitekit
+[SQLiteKit Documentation](https://docs.iteam.studio/docc/documentation/sqlitekit)
+
+### SwiftHT
+
+Result-builder HTML and CSS generation for Swift, with typed components, escaping, and static output.
+
+Documentation for SwiftHT is available through the published website:
+
+[SwiftHT Documentation](https://docs.iteam.studio/docc/documentation/swiftht)
 
 Additional libraries and projects may be added over time.
-
-## Local Development
-
-Clone the repository:
-
-```bash
-git clone <repository-url>
-cd <repository-name>
-```
-
-Open the website locally using any static web server.
-
-Example:
-
-```bash
-python3 -m http.server 8000
-```
-
-Then visit:
-
-```text
-http://localhost:8000
-```
 
 ## Repository Structure
 
@@ -80,7 +65,7 @@ The exact structure may evolve as additional documentation projects are introduc
 
 Documentation releases are published to:
 
-https://docs.iteam.studio
+[Dot iTeam Documentation](https://docs.iteam.studio)
 
 GitHub Releases may contain generated documentation archives, website snapshots, or deployment artifacts corresponding to published versions.
 
